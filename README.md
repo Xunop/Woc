@@ -6,9 +6,9 @@
 
 要求：
 
-1、完成 UserController、AdminController 接口
+1、完成 UserController、AdminController 接口          √
 
-2、建立 GitHub 仓库并提交
+2、建立 GitHub 仓库并提交                √
 
 ------
 文件结构
